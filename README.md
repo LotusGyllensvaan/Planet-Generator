@@ -1,3 +1,5 @@
+Följde en tutorial av CatlikeCoding, the GOAT: https://catlikecoding.com/unity/tutorials/pseudorandom-noise/
+
 Planet Generator
 Overview
 The Planet Generation Toolkit is a collection of scripts and utilities designed to aid developers in generating procedural planets within Unity projects. Leveraging the power of Unity's Burst compilation and job system, this toolkit provides efficient algorithms for generating various types of noise, meshes, and shapes, making it suitable for real-time applications such as games, simulations, and visualizations.
